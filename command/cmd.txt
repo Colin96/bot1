@@ -1,0 +1,6 @@
+git branch
+git pull # updata to local
+git add file
+git status
+git commit -m "info"
+git push # upload files
